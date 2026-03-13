@@ -1,0 +1,22 @@
+{
+  "name": "prodmoveis",
+  "version": "1.0.0",
+  "description": "API CRUD com Node.js, Express e SQLite para a disciplina.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "sqlite",
+    "crud"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "sqlite3": "^5.1.7"
+  }
+}
